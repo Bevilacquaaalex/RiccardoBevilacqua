@@ -1,30 +1,41 @@
-Alarum: escursioni. Entrano in Norfolk e le forze combattono; a lui CATESBY
+Clamori marziali. Scorrerie. Entrano (Norfolk e soldati, poi dall’altra porta) Catesby.
 
 CATESBY
 
-     Salva, mio signore di Norfolk, salva, salva!
-     Il re compie più meraviglie di un uomo,
-     Osare l'opposto di ogni pericolo:
-     Il suo cavallo è ucciso, e tutto a piedi combatte,
-     Alla ricerca di Richmond in gola alla morte.
-     Salva, bel signore, o il giorno è perduto!
+Soccorso! Monsignore di Norfolk, soccorso, soccorso!
 
-     Allarmi. Entra RE RICCARDO III
+Il re fa prodigi sovrumani,
 
-RE RICCARDO III
+sfidando ad oltranza ogni avversario.
 
-     Un cavallo! un cavallo! il mio regno per un cavallo!
+Gli hanno ucciso il cavallo, ed egli si batte a piedi, [giusta]
 
-CATESBY
+e nell’ansia di battersi con Richmond
 
-     Ritirati, mio signore; Ti aiuterò a un cavallo.
+si caccia nelle fauci della morte.
 
-RE RICCARDO III
+Soccorretelo, nobile signore,
 
-     Schiavo, ho posto la mia vita su un calco,
+o la giornata per noi è perduta. [giusta]
+
+(Escono Norfolk e soldati)
+
+Entra RE RICCARDO
+
+CATESBY 
+	
+Sire,
+
+ritiratevi! Cerco io un cavallo
+
+per vostra altezza.
+
+RICCARDO 
+	
+Schiavo, ho posto la mia vita su un calco,
      E sopporterò il rischio del dado: [giusta]
      Penso che ci siano sei Richmond in campo;
      Oggi ne ho uccisi cinque al posto di lui.
      Un cavallo! un cavallo! il mio regno per un cavallo!
 
-     Esce
+(Escono tutti)
